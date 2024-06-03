@@ -1,0 +1,4 @@
+Plane,2024-06-01,08:00,2024-06-01,10:00,150.0,180,50,1000,AirlineA,passenger,New York,London
+Plane,2024-06-02,09:00,2024-06-02,11:00,1200.0,10,2,800,AirlineB,private,Los Angeles,Tokyo
+Plane,2024-06-03,12:00,2024-06-03,14:00,200.0,200,150,1200,AirlineC,passenger,Paris,Berlin
+Plane,2024-06-04,07:00,2024-06-04,09:00,1300.0,8,1,600,AirlineD,private,Sydney,Auckland

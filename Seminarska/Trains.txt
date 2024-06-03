@@ -1,0 +1,6 @@
+Train,2024-06-01,10:00,2024-06-01,14:00,25.0,100,50,200,Deutsche Bahn,public,Germany,France,Berlin,Paris
+Train,2024-06-02,12:00,2024-06-02,16:00,30.0,120,60,250,Eurostar,public,France,United Kingdom,Paris,London
+Train,2024-06-03,09:00,2024-06-03,13:00,20.0,150,75,180,Thalys,public,Belgium,Netherlands,Brussels,Amsterdam
+Train,2024:05:15,23:32,2024:05:01,23:23,1000.0,200,30,1000,CargoTravel,cargo,Vrbas,Novi Sad,Srbija,Srbija,10000.0
+Train,2024-03-22,12:30,2024:03:23,!3:00,150.0,50,50,10000,CargoHold,cargo,Vrbas,Novo mesto,Srbija,Slovenija,30000.0
+Train,100,100,100,100,100.0,1001,100,100,100,public,dada,dede,Srbija,Slovenija

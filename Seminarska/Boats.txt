@@ -1,0 +1,2 @@
+Boat,2024-06-01,10:30,2024-06-01,13:00,30.0,20,0,50,Maritime Transport,ferry,Port A,Port B,30
+Boat,2024-06-01,10:30,2024-06-01,13:00,30.0,20,0,50,Maritime Transport,ferry,Port A,Port B,30

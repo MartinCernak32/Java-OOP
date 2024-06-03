@@ -1,0 +1,11 @@
+Bus,2024-06-15,10:00,2024-06-15,14:00,25.50,Bus Agency,CityA,CityB,John Doe
+Bus,2024-06-15,15:00,2024-06-15,19:00,30.00,Bus Agency,CityA,CityC,Jane Smith
+Bus,2024-06-16,08:00,2024-06-16,12:00,22.75,Bus Agency,CityB,CityD,Robert Johnson
+Bus,2024-06-16,14:00,2024-06-16,18:00,27.00,Bus Agency,CityC,CityE,Linda Williams
+Bus,2024-06-17,09:00,2024-06-17,13:00,24.00,Bus Agency,CityD,CityA,Michael Brown
+Bus,2024-06-02,08:00,2024-06-02,14:00,30.0,BusAgency2,Ljubljana,Zagreb,Martin
+Train,asdasd,asdasd,sadasd,asasd,222.0,asasd,asdasd,asdas,Martin
+Plane,2024-06-05,15:00,2024-06-05,17:00,180.0,AirlineE,Beijing,Shanghai,Martin
+Boat,2024-06-01,10:30,2024-06-01,13:00,30.0,Maritime Transport,Port A,Port B,Martin
+Rocket,1,1,1,1,1.0,1,1,1,martin
+Rocket,1,1,1,1,1.0,1,1,1,Martin

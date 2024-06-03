@@ -1,0 +1,2 @@
+Bus,2024-06-01,10:00,2024-06-01,12:00,15.0,50,10,200,BusAgency1,city,Ljubljana,Maribor
+Bus,2024-06-02,08:00,2024-06-02,14:00,30.0,100,20,500,BusAgency2,national,Ljubljana,Zagreb
